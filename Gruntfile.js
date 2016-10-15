@@ -1,3 +1,5 @@
+/* @author lihonglei@360.cn */
+
 // ① 读取package信息
 // ② 插件加载、注册任务，运行任务（grunt对外的接口全部写在这里面
 
